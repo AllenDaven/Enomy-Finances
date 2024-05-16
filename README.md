@@ -1,4 +1,4 @@
-## Enomy-Finances System Development
+## Enomy-Finances Website
 
 Welcome to the Enomy-Finances Website repository. This project aims to design and implement a new computer system for Enomy-Finances, a financial services organization specializing in mortgages, savings, and investments. The new system will support both staff and clients, with a potential transition from a networked application to a web-based solution.
 
@@ -11,9 +11,9 @@ Generate initial software designs to ensure accurate understanding of client nee
 Develop a robust, scalable system on upgraded infrastructure.
 
 ## Technologies Used:
-- HTML, CSS, JavaScript for frontend development.
-- Bootstrap framework for responsive design.
-- Java, MySQL, Spring MVC, Spring Security for backend.
+ - Frontend Development: HTML, CSS, JavaScript.
+ - Responsive Design: Bootstrap framework.
+ - Backend Development: Java, MySQL, Spring MVC, Spring Security.
 
 ## Disclaimer:
 This project is a part of academic coursework or personal development, and it is not associated with Enomy_Finances. The content, imagery, and information used in this project are for illustrative purposes only. All rights and credits for the branding, logos, and related materials belong to Enomy_Finances. The project's primary objective is to showcase web development skills and create a fictional representation of a financial websites.
