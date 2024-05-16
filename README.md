@@ -10,6 +10,11 @@ Determine project scope, requirements, constraints, and core system processes.
 Generate initial software designs to ensure accurate understanding of client needs.
 Develop a robust, scalable system on upgraded infrastructure.
 
+## Technologies Used:
+- HTML, CSS, JavaScript for frontend development.
+- Bootstrap framework for responsive design.
+- Java, Spring MVC, Spring Security for backend.
+
 ## Disclaimer:
 This project is a part of academic coursework or personal development, and it is not associated with Enomy_Finances. The content, imagery, and information used in this project are for illustrative purposes only. All rights and credits for the branding, logos, and related materials belong to Enomy_Finances. The project's primary objective is to showcase web development skills and create a fictional representation of a financial websites.
 
